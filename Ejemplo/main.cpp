@@ -4,7 +4,7 @@ using namespace std;
 
 int main(void) {
 
-    cout << "hello rama Test2 se pruba en rama y merge" << endl;
+    cout << "hello rama Test2 y GitHub" << endl;
 
     return 0;
 }
